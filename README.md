@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a new graduated computer engineer.I develop myself on computer vision, artificial intelligence and Virtual Reality.
+💻 I am a new graduated computer engineer.I develop myself on computer vision, artificial intelligence and Virtual Reality.
 
 
 ## 🌐 Socials:
