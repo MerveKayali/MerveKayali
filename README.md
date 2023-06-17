@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I describe myself as a young and determined person who<br> has developed personal skills and can easily adapt to teamwork. <br>I think I will be beneficial to your company with my innovative ideas <br>and approach to problems. I am an individual who is open to <br>development with all my determination for my profession,<br> which I have eagerly chosen, while utilizing all opportunities for<br> my professional development at university. I develop <br>myself on computer vision, artificial intelligence and Virtual Reality.
+I am a new graduated computer engineer.I develop myself on computer vision, artificial intelligence and Virtual Reality.
 
 
 ## 🌐 Socials:
