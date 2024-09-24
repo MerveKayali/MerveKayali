@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 I am a computer engineer.<br>
-I develop myself in .NET Core, JavaScript,Computer Vision, Artificial Intelligence, Machine Learning, .
+I develop myself in .NET Core, JavaScript,Computer Vision, Artificial Intelligence, Machine Learning.
 
 
 
